@@ -16,7 +16,7 @@
 <a href="https://www.hackerrank.com/rohitkaushal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="rohitkaushal" height="20" width="20" /></a>
 <a href="https://codeforces.com/profile/rohitkaushal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rohitkaushal" height="20" width="20" /></a>
 <a href="https://www.leetcode.com/rohitkaushal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="rohitkaushal" height="20" width="20" /></a>
-<a href="https://www.topcoder.com/members/rohitkaushal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="rohitkaushal" height="20" width="20" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -103,6 +103,6 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="20" height="20"/> 
 </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkaushal7&layout=compact" alt="rohitkaushal7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitkaushal7&layout=compact&hide_border=true" alt="rohitkaushal7" /></p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitkaushal7&show_icons=true" alt="rohitkaushal7" /></p> -->
