@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Rohit Kaushal</h1>
-A passionate full stack developer.
+A love building thigss..
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkaushal7" alt="rohitkaushal7" /> </p>
 
-- 👨‍💻 I do **Typescript, React, ReactNative, Express**
+- 👨‍💻 I do **Typescript, React n ReactNative**
 <!-- - 📫 **rohitkk252550@gmail.com** -->
