@@ -1,7 +1,3 @@
-<h1>Hi 👋, I'm Rohit Kaushal</h1>
-A love building thigss..
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitkaushal7" alt="rohitkaushal7" /> </p>
-
-- 👨‍💻 I do **Typescript, React n ReactNative**
+<h1>Hi 👋, I'm Rohit</h1>
+- 👨‍💻 I do **Typescript** and me like building stuff..
 <!-- - 📫 **rohitkk252550@gmail.com** -->
